@@ -1,5 +1,5 @@
 **Welcome to my Github page** 👋
- **Hi**,I am **Mamatha S**
+**Hi**,I am **Mamatha S**
 I am currently working as  a "Full Stack Developer💻" intern at GlobalQuestTechnologies.
 I am very much keen and eger to acquire Skills as per the industry standards.
 
