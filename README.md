@@ -19,6 +19,9 @@ I am very much keen and eger to acquire Skills as per the industry standards.
 
 
 
+
+<h3>Thanks! 😊</h3>
+
 <!--
 **MamathaS-2001/MamathaS-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
