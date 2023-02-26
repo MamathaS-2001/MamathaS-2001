@@ -4,6 +4,9 @@ I am currently working as  a "Full Stack Developer💻" intern at GlobalQuestTec
 I am very much keen and eger to acquire Skills as per the industry standards.
 
 
+
+<h1 align="center">
+✨ Where you can find me ✨
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/mamatha-s-092191208/">
