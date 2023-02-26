@@ -13,7 +13,7 @@ I am very much keen and eger to acquire Skills as per the industry standards.
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://github.com/parth-27">
+  <a href="https://github.com/MamathaS-2001/MamathaS-2001/">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 
