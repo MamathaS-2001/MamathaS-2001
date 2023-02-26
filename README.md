@@ -4,6 +4,17 @@ I am currently working as  a "Full Stack Developer💻" intern at GlobalQuestTec
 I am very much keen and eger to acquire Skills as per the industry standards.
 
 
+<p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/mamatha-s-092191208/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/parth-27">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+
+
 
 <!--
 **MamathaS-2001/MamathaS-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
